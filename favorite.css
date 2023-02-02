@@ -542,9 +542,9 @@ p1 {
     transition: all 0.3s ease-out 0s;
 }
 
-.position-04 .blog-home .item .box-2 {
+/* .position-04 .blog-home .item .box-2 { */
     /* padding: 20px; */
-}
+/* } */
 
 .position-04 .blog-home .item .box-2 .title {
     color: #000;
